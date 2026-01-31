@@ -5,3 +5,5 @@
 2. Create a virtual environment `python3 -m venv venv`
 3. Activate virtual environment `source venv/bin/activate`
 4. Install dependencies `pip install -r requirements.txt`
+5. Run `python prices.py`
+6. Deactivate virtual environment `deactivate`
